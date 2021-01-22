@@ -1,8 +1,9 @@
-title: githuCourse
+title: githubCourse
 description: Learn GitHub
 template:
-  repo: githucourse-template
-  name: githucourse
+  repo: githubcourse-template
+  name: githubcourse
+  description: Learn GitHub
 before:
   - type: createIssue
     title: Welcome!
